@@ -224,7 +224,7 @@ var options = 	{
 								}
 					},
 					chaincode:{
-						zip_url: 'https://github.com/ibm-blockchain/marbles/archive/v2.0.zip',
+						zip_url: 'https://github.com/qianlizimu/usersystem/archive/v2.0.zip',
 						unzip_dir: 'marbles-2.0/chaincode',													//subdirectroy name of chaincode after unzipped
 						git_url: 'https://gopkg.in/qianlizimu/usersystem.git',						//GO get http url
 					
